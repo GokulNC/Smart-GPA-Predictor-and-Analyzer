@@ -1,6 +1,6 @@
 # Android App: Smart GPA Predictor & Analyzer
 
-Currently, given GPAs obtained till any semester & a target CGPA, the app can predict the GPAs you should obtain in upcoming to achieve the target CGPA that you aim for.. Lol.
+Currently, given GPAs obtained till any semester & a target CGPA, the app can predict the GPAs you should obtain in upcoming sems to achieve the target CGPA that you aim for.. Lol.<br/>
 (Currently for CSE department only)
 
 PS: 
