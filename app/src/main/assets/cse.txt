@@ -1,0 +1,90 @@
+8
+sem 1
+9
+HS6151 Technical_English-1 4
+MA6151 Mathematics-1 4
+PH6151 Engineering_Physics-1 3
+CY6151 Engineering_Chemistry-I 3
+GE6152 Engineering_Graphics-I 4
+GE6151 Fundamentals_of_computing_&_Programming 3
+GE6161 Computer_Practice_Laboratory-I 2
+GE6162 Engineering_Practices_Laboratory 2
+GE6163 Physics_and_Chemistry_Laboratory-I 1
+EOS
+sem 2
+9
+HS6251 Technical_English-II 4
+MA6251 Mathematics-II 4
+PH6251 Engineering_Physics-II 3
+CY6251 Engineering_Chemistry-II 3
+CS6201 Digital_Principles_and_System_Design 3
+CS6202 Programming_and_Data_structure-1 3
+GE6262 Physics_and_Chemistry_Laboratory-II 1
+CS6211 Digital_Laboratory 2
+CS6212 Programming_and_Data_structure_Laboratory-I 2
+EOS
+sem 3
+8
+MA6351 Transforms_and_Partial_Differential_Equations 4
+CS6301 Programming_and_Data_Structures-II 3
+CS6302 Database_Management_System 3
+CS6303 Computer_Architecture 3
+CS6304 Analog_and_Digital_Communication 3
+GE6351 Environmental_Science_and_Engineering 3
+CS6311 Programming_and_Data_Structures_Lab-II 2
+CS6312 Database_Management_System_Lab 2
+EOS
+sem 4
+9
+MA6453 Probability_and_Queueing_Theory 4
+CS6402 Design_and_Analysis_of_Algorithms 3
+EC6504 Microprocessors_and_Microcontrollers 3
+CS6551 Computer_Networks 3
+CS6401 Operating_Systems 3
+CS6403 Software_Engineering 3
+CS6413 Operating_Systems_Lab 2
+CS6411 Networks_Lab 2
+CS6412 Microprocessors_Lab 2
+EOS
+sem 5
+8
+CS6502 Object_Oriented_Analysis_and_design 3
+MA6566 Discrete_Mathematics 4
+CS6504 Computer_Graphics 3
+CS6503 Theory_of_Computation 3
+CS6501 Internet_Programming 4
+CS6511 Case_Tool_lab 2
+CS6513 Computer_Graphics_lab 2
+CS6512 Internet_Programming_lab 2
+EOS
+sem 6 
+9
+CS6659 Artificial_Intelligence 3
+IT6502 Digital_Signal_Processing 4
+CS6601 Distributed_System 3
+IT6601 Mobile_Computing 3
+CS6660 Compiler_Design 3
+Elective-I Elective-I 3
+CS6611 Mobile_Application_Developement_lab 2
+CS6612 Compiler_Lab 2
+GE6674 Communication_and_soft_skills_lab 2
+EOS
+sem 7
+8
+CS6701 Cryptography_and_Network_Security 3
+CS6702 Graph_Theory_and_Application 3
+CS6703 Grid_and_Cloud_Computing 3
+CS6704 Resource_Management_Tecniques 3
+Elective-II Elective-II 3
+Elective-III Elective-III 3
+CS6711 Security_Laboratory 2
+Cs6712 Grind_and_Cloud_Computing_lab 2
+EOS
+sem 8
+4
+CS6801 Multi_Core_Architectures_and_Programming 3
+Elective-IV Elective-IV 3
+Elective-V Elective-V 3
+CS6811 Project_Work 6
+EOS
+EOF
